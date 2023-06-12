@@ -45,6 +45,6 @@ pip install -r requirements.txt
 
 - 8. The final YouTube shorts video will be displayed below the prompt.
 # Demo Video
-![Presentation and Demo of MindSpeak AI-Agent-Hackathon](./presentation-and-demo.mp4)
+![Presentation and Demo of MindSpeak AI-Agent-Hackathon](presentation-and-demo.mp4)
 ## Contributing
 Contributions to this project are  welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request
