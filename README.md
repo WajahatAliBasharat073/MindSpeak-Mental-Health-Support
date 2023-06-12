@@ -7,6 +7,9 @@ This is a demo application for generating YouTube shorts using the Stable Diffus
 1. Clone the repository:
 
    ```git clone <repository-url>```
+   
+   
+   
  2 .Install the required dependencies:
   ```pip install -r requirements.txt```
   
