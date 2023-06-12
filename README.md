@@ -13,10 +13,6 @@ This is a demo application for generating YouTube shorts using the Stable Diffus
  2 .Install the required dependencies:
   ```pip install -r requirements.txt```
   
-Certainly! Here's a sample readme.md file for the given code:
-
-markdown
-Copy code
 # MindSpeak: Visualizing Mental Health Support
 
 This is a demo application for generating YouTube shorts using the Stable Diffusion and Eleven Labs libraries. It allows users to input a query related to mental health and generates a prompt, which is then used to generate images, audio, and a final video.
