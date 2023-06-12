@@ -1,6 +1,6 @@
 # MindSpeak: Visualizing Mental Health Support
 
-This is a demo application for generating YouTube shorts using the Stable Diffusion and Eleven Labs libraries. It allows users to input a query related to mental health and generates a prompt, which is then used to generate images, audio, and a final video.
+This is a demo application for generating YouTube shorts using the Stable Diffusion and Eleven Labs libraries. It allows users to input a query related to mental health and generates a prompt, which is then used to generate images,text, audio, and a final video.
 
 ## Installation
 
